@@ -1,4 +1,4 @@
-# EmployWise User Management Application
+# User Management Application
 
 A React-based user management application that integrates with the Reqres API to perform basic user management functions.
 
