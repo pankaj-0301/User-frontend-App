@@ -45,10 +45,7 @@ A React-based user management application that integrates with the Reqres API to
    npm run dev
    ```
 
-## Login Credentials
 
-- Email: eve.holt@reqres.in
-- Password: cityslicka
 
 ## Implementation Details
 
